@@ -11,8 +11,8 @@ import styles from './components/Style';
 import requestCameraAndAudioPermission from './components/Permission';
 
 const config = {
-  appId: AgoraAppID,
-  token: '',
+  appId: 'a3365cdff1ff4c65bac21f2cfe1592c9',
+  token: '007eJxTYMj8l1fOf7KGZVP1u2WXlaqnNO/ct2lT7daH5dm5V9zX3ddQYEg0NjYzTU5JSzNMSzNJNjNNSkw2MkwzSk5LNTS1NEq2/HG0K60hkJFh3eT/zIwMEAjiszCUpBaXMDAAAFhvJBY=',
   channelName: 'test',
 };
 
