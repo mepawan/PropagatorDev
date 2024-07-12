@@ -1,6 +1,6 @@
 # Agora React Native Demo
 
-[*其他语言版本：[中文](README.zh.md)*](url)
+<!---[*其他语言版本：[中文](README.zh.md)*](url)-->
 
 Quickstart for group video calls on [React Native SDK](https://facebook.github.io/react-native/) using Agora.io SDK.
 Use this guide to quickly start a multiple user group call.
